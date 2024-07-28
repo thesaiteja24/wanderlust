@@ -1,0 +1,15 @@
+{
+  "name": "wanderlust",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Wanderlust is a small nodejs script that walks through a directory and all its sub-folders calling a function for every file it finds!",
+  "keywords": [
+    "walk",
+    "wanderlust",
+    "search",
+    "files"
+  ],
+  "repository": "https://github.com/m4r1vs/wanderlust.git",
+  "author": "Marius Niveri <marius.niveri@gmail.com>",
+  "license": "MIT"
+}
